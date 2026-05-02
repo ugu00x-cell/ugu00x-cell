@@ -1,0 +1,12 @@
+# OS / エディタ
+.DS_Store
+Thumbs.db
+.vscode/
+.cursor/
+.idea/
+*.swp
+
+# 機密
+.env
+*.key
+secrets/
