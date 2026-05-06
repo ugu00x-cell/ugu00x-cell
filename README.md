@@ -87,6 +87,11 @@
 |---|---|
 | ⚡ [**dotfiles**](https://github.com/ugu00x-cell/dotfiles) | Windows + Cursor + Claude Code を 30分で再現する dotfiles |
 
+### 🎮 趣味プロジェクト
+
+業務軸とは別に、個人興味・学習目的のプロジェクトを索引リポにまとめています。
+詳細は [**hobby**](https://github.com/ugu00x-cell/hobby) を参照ください（archive済リポへのリンク集）。
+
 ---
 
 ## 📚 Learning & Challenge
